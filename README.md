@@ -37,42 +37,32 @@ GIVEN a text editor web application:
 - **Heroku Deployment**: The application should have proper build scripts for a webpack application when deploying to Heroku.
 
 ## Getting Started
-Before starting, clone the starter code from the [provided link](#).
 
 To get a local copy up and running, follow these steps:
 
 1. Clone the repo:
-   ```sh
-   git clone https://github.com/your_username/Text-Editor-PWA.git
-Install NPM packages:
-npm install
-Usage
+   ```
+   git clone git@github.com:tijanihind/text-editor.git
+   ```
+2. Install NPM packages:
+    ```
+    npm install
+    ```
+
+### Usage
 This section will provide instructions on how to use the text editor after deployment.
 
-Contributing
+### Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-Deployment
+### Fork the Project
+1. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+2. Commit your Changes (git commit -m 'Add some AmazingFeature')
+3. Push to the Branch (git push origin feature/AmazingFeature)
+4. Open a Pull Request
+
+### Deployment
 For deployment on Heroku, follow the Heroku Deployment Guide.
 
-License
+### License
 Distributed under the MIT License. See LICENSE for more information.
-
-Contact
-Your Name - example@example.com
-
-Project Link: https://github.com/your_username/Text-Editor-PWA
-
-
-You can modify and fill in the sections according to the specific details of your project. This template should serve as a solid starting point for your project's documentation.
-
-
-
-
-
-
